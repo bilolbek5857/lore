@@ -15,6 +15,6 @@ justify-content: center;
 flex-direction: column;
 }
 body h1{
-font-size: 25vh;
+font-size: 25vw;
 text-transform: uppercase;
 }
